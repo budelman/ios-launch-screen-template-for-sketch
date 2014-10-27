@@ -10,7 +10,7 @@ A pre-built [Sketch3](http://bohemiancoding.com/sketch/) file for quickly export
 
 #Three magic steps:
 
-1. Download the [zipped Sketch3 file](https://github.com/budelman/ios-launch-screen-template-for-sketch/blob/master/ios8_default-images_template.sketch.zip).
+1. Download the [zipped Sketch3 file](https://github.com/budelman/ios-launch-screen-template-for-sketch/blob/master/ios8_default-images_template.sketch.zip?raw=true).
 2. Unzip, open the file, and add your artwork to each artboard.
 3. Click the "Export" icon and get back to making cool shit.
 
