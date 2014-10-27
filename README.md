@@ -1,6 +1,7 @@
 ios-launch-screen-template-for-sketch
 ===
 
+_GNU GENERAL PUBLIC LICENSE (so have at it)_
 
 <p>
 <img style="max-width:340px;" src="https://raw.githubusercontent.com/budelman/ios-launch-screen-template-for-sketch/master/_img/sketch-file-preview.png"/>
