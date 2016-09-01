@@ -7,20 +7,19 @@ _GNU GENERAL PUBLIC LICENSE (so have at it)_
 <img style="max-width:340px;" src="https://raw.githubusercontent.com/budelman/ios-launch-screen-template-for-sketch/master/_img/sketch-file-preview.png"/>
 </p>
 
-A pre-built [Sketch3](http://bohemiancoding.com/sketch/) file for quickly exporting assets for iOS 8 [launch screen](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/MobileHIG/LaunchImages.html#//apple_ref/doc/uid/TP40006556-CH22-SW1) (iPhone 4, iPhone 5, iPhone 6, iPhone 6 Plus, iPad, iPad 2, iPad Mini)
+A pre-built [Sketch3](http://bohemiancoding.com/sketch/) file for quickly exporting assets for iOS 8 [launch screens](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/MobileHIG/LaunchImages.html#//apple_ref/doc/uid/TP40006556-CH22-SW1) (iPhone 4, iPhone 5, iPhone 6, iPhone 6 Plus, iPad, iPad 2, iPad Mini)
 
-Made with love and care for [EverTrue](https://github.com/evertrue) by Mat Budelman
+Made at [EverTrue](https://github.com/evertrue) by [Mat Budelman](https://github.com/budelman)
 
-#Installation
-None. Requires Sketch3 by Bohemian Coding. Buy [Sketch3](http://bohemiancoding.com/sketch/).
+# Installation
+Requires Sketch3 by Bohemian Coding. Buy Sketch3 [here](http://bohemiancoding.com/sketch/).
 
-#How-to: Three magic steps.
-
+# How-to: three simple steps...
 1. Download the [zipped Sketch3 file](https://github.com/budelman/ios-launch-screen-template-for-sketch/blob/master/ios8_default-images_template.sketch.zip?raw=true).
-2. Unzip, open the file, and add your artwork to each artboard.
-3. Click the "Export" icon and get back to making cool shit.
+2. Unzip, open the file in Sketch3 and add your artwork to each artboard.
+3. Click the "Export" icon in sketch and get back to making cool stuff again.
 
-##Preview
+## Preview
 
 ===
 
@@ -34,7 +33,7 @@ None. Requires Sketch3 by Bohemian Coding. Buy [Sketch3](http://bohemiancoding.c
 
 ===
 
-Got a better way? Awesome, I'm all ears. Pull a branch, and show me the magic.
+Got a better way? Awesome, pull a branch, and show us the magic...
 
 ---
 
