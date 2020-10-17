@@ -34,11 +34,10 @@ None. Requires Sketch3 by Bohemian Coding. Buy [Sketch3](http://bohemiancoding.c
 
 ===
 
-Got a better way? Awesome, I'm all ears. Pull a branch, and show me the magic.
+Got a better way? Awesome, pull a branch, and let's collaborate.
 
 ---
 
-EverTrue on the web: [@evertrue](http://www.evertrue.com)
 
 Mat Budelman on the web: [@designedbymat on dribbble](https://dribbble.com/designedbymat)
 
